@@ -1,4 +1,4 @@
-#Activité Pratique N°3 - Spring MVC Spring Data JPA Thymeleaf#  
+*Activité Pratique N°3 - Spring MVC Spring Data JPA Thymeleaf*
 
 ![1](https://github.com/BOULAHYA-Chaymae/TP3-Spring_MVC_Spring_Data_JPA_Thymeleaf/assets/167257389/d74e9f4e-360b-4db7-b152-78d999116f34)
 ![2](https://github.com/BOULAHYA-Chaymae/TP3-Spring_MVC_Spring_Data_JPA_Thymeleaf/assets/167257389/0e7cba54-cb87-4de6-a142-31995209c6ab)
